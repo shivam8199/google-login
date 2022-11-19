@@ -1,0 +1,61 @@
+form{  
+    border: 2px solid black ;
+    border-radius: 5px;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    width: 510px;
+    margin:50px auto;
+    background-color:rgb(192, 230, 255);
+}
+hr{
+    border-top: 3px solid blue;
+}
+h6{
+    font-weight: normal;
+    text-align: center;
+    font-size:small;
+}
+#input{
+    font-size: small;
+    width: 470px;
+    border: 1px solid brown;
+    border-radius:2px;
+}
+#Time{
+    font-size: small;
+    width: 235px;
+    height: 19px;
+    border: 1px solid black;
+    border-radius:2px;
+}
+#button{
+    background-color: brown;
+    color: whitesmoke;
+    width: 470px;
+    border: 6px solid brown;
+    border-radius: 4px;
+}
+label{
+    font-size: small;
+}
+#waterMark{
+    position: fixed;
+    color: rgb(81, 163, 240);
+    opacity:0.3 ;
+    text-align: center;
+    right: 50%;
+    left: 45%;
+    top: 4.5%;
+    font-size:45px;
+}
+h2{
+    font-size:20px;
+    font-family:sans-serif;
+    text-align: center;
+    margin-top: 4.5%;
+    color: rgba(2, 31, 83, 0.712);  
+
+}
+body{
+    display: block;
+}
